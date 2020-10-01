@@ -7,7 +7,7 @@ import { AboutUs } from './AboutUs'
 import { WhyChooseUs } from './WhyChooseUs'
 import { Pricing } from './Pricing'
 
-export const IndexPage = () => {
+const IndexPage = () => {
   return (
     <MainLayout>
       <SubscribeFormTop />
@@ -19,3 +19,5 @@ export const IndexPage = () => {
     </MainLayout>
   )
 }
+
+export default IndexPage
