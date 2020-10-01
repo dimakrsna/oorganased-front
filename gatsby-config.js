@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/oorganased-front",
   siteMetadata: {
     title: `Oorganized`,
     description: ``,
